@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://taeyunlab.github.io/mate-lab-website/sitemap.xml
